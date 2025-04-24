@@ -1,1 +1,5 @@
+# Ignore all .json files
 *.json
+
+# Ignore all .log files
+*.log
